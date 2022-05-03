@@ -1,18 +1,30 @@
-Homework for week 3 of bootcamp
+## Password Generator
 
-This is the homework for the third week of bootcamp. It teaches the fundamentals of JavaScript through programming a password generator.
+## Table of Contents
 
-Installation
-The website can be viewed on a internet browser.
+- [Picture](#picture)
+- [Description](#description)
+- [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
 
-Image
-![alt text](./passwordgeneratorpic.png)
+## Picture
+![picture of password generator](./passwordgeneratorpic.png)
 
-Usage
-The website has no outside links or subpages. The only links are the three in the header, which direct the user down to specific parts of the page. In the future, the 'coming soon' pictures will be replaced with screenshots of completed works and links to them.
+## Description
+This is the homework for the third week of bootcamp. It teaches the fundamentals of JavaScript through programming a password generator, which takes in the user's preferences for length, alphanumeric and special characters and generates a random string according to them.
 
-Credits
-No collaborators
+## License
+None
 
-License
-No license
+## Installation
+The website can be viewed on a internet browser, or the repository can be forked and run privately.
+
+## Usage
+The user must press the 'generate password' button first, and then the pop-ups will appear to ask for specifications, then the password will appear in the box.
+
+## Deployed Application
+https://pasfrad.github.io/homework-week2-password-generator/
+
+## For Questions
+rd.hart@outlook.com
