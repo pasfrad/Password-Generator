@@ -24,7 +24,7 @@ The website can be viewed on a internet browser, or the repository can be forked
 The user must press the 'generate password' button first, and then the pop-ups will appear to ask for specifications, then the password will appear in the box.
 
 ## Deployed Application
-https://pasfrad.github.io/homework-week2-password-generator/
+https://pasfrad.github.io/Password-Generator/
 
 ## For Questions
 rd.hart@outlook.com
